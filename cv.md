@@ -37,6 +37,7 @@ _Uzhhorod National University_
 * GIT (GitHub)
 * C#
 * Visual Basic
+* PHP
 
 ## Language:
 English - B1  
